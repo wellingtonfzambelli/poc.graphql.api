@@ -108,3 +108,7 @@ In my case: https://localhost:7103/graphql/
 
 Filtering by "dog" word
 <img width="1906" height="1004" alt="image" src="https://github.com/user-attachments/assets/cd73f877-96f3-40b2-9567-740a8af07731" />
+<br /><br />
+
+Retrieving by "Id"
+<img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/2d43efdb-28d2-422f-b2dd-9ccd484a3527" />
