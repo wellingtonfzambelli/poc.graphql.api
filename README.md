@@ -1,4 +1,5 @@
 # About
+This project is a small proof of concept built with .NET 9 and Hot Chocolate to demonstrate how GraphQL works in practice. It exposes two simple query methods to illustrate schema generation, resolvers, and how clients can request only the data they need. The goal is not to provide a production-ready solution, but to show the basic GraphQL flow, naming conventions, and query execution in a minimal and easy-to-understand example.
 <br /><br />
 
 # Stacks of this project
