@@ -97,5 +97,14 @@ public sealed class NewsRepository : INewsRepository
 
 
 # Inicialization Program.cs
-<img width="864" height="956" alt="image" src="https://github.com/user-attachments/assets/c3ffd456-c6f0-41fc-831d-baddf19bb7fa" />
+<img width="864" height="867" alt="image" src="https://github.com/user-attachments/assets/5f2aa293-dbf2-4642-b88a-33974ffd46ea" />
+<br /><br />
 
+
+# Acess the URL we defined on the Program.cs file
+
+In my case: https://localhost:7103/graphql/  
+<br />
+
+Filtering by "dog" word
+<img width="1906" height="1004" alt="image" src="https://github.com/user-attachments/assets/cd73f877-96f3-40b2-9567-740a8af07731" />
